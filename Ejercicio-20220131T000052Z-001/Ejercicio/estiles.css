@@ -1,0 +1,23 @@
+.cabezales {
+    color: aqua;
+    background-color: black;
+    size: 8px;
+}
+
+.table > li {
+    color: rgb(1, 22, 22);
+    background-color: rgb(14, 247, 149);
+    ;
+}
+
+.tittles2 :nth-child(odd) {
+    color: blanchedalmond;
+    background-color: rgb(49, 8, 104);
+    ;
+}
+
+.tittles2 :nth-child(even) {
+    color: burlywood;
+    background-color: rgb(15, 153, 96);
+    ;
+}
