@@ -17,7 +17,7 @@
 }
 
 .tittles2 :nth-child(even) {
-    color: burlywood;
+    color: rgb(14, 12, 9);
     background-color: rgb(15, 153, 96);
     ;
 }
